@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Assignment-5
 
-You can use the [editor on GitHub](https://github.com/rweston233/Assignment-5/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Assignment 5 Learning Objectives
+> Related Project and Lab Recap:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- In <a href="https://rweston233.github.io/Assignment-4/">Assignment 4</a> a list of tables to control the website were created.  Three of those tables had to have properties, and two of the tables were required to have a relationship. Five queries were also required to be implemented in Assignment 4.
 
-### Markdown
+- Lab 6, requirements were to duplicate code to create a working REST service using Node JS for the COLOR database table.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Part I
+> Alumni Website REST Service
+>> This assignment, will combine the efforts of Assignment 4 and Lab 6 and create a REST service for ONE of the Assignment 4 tables. **Below are the required elements:**
 
-```markdown
-Syntax highlighted code block
+- **GET**
+  1. The GET URL to retrieve ALL rows from your table
+  2. The JSON result from Postman for all your rows
+  3. The GET URL to retrieve the first row by primary key from your table
+  4. The JSON result from Postman for your first row
+- **POST**
+  1. The POST URL to insert a new row into your table
+  2. The JSON sent in Postman
+  3. The JSON result from Postman from POST action
+- **Optional: PUT and DELETE**
+  1. Use Postman to perform DELETE and PUT actions
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Deliverables
+[assign05.zip](https://github.com/rweston233/Assignment-5/blob/main/assign05.zip)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rweston233/Assignment-5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>> Back to home page:
+[Home](https://rweston233.github.io/)
