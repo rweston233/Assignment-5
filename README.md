@@ -11,14 +11,18 @@
 > Alumni Website REST Service
 >> This assignment, will combine the efforts of Assignment 4 and Lab 6 and create a REST service for ONE of the Assignment 4 tables. **Below are the required elements:**
 
-- GET
+- **GET**
   1. The GET URL to retrieve ALL rows from your table
   2. The JSON result from Postman for all your rows
   3. The GET URL to retrieve the first row by primary key from your table
   4. The JSON result from Postman for your first row
-- POST
+- **POST**
   1. The POST URL to insert a new row into your table
   2. The JSON sent in Postman
   3. The JSON result from Postman from POST action
-- Optional: PUT and DELETE
+- **Optional: PUT and DELETE**
   1. Use Postman to perform DELETE and PUT actions
+
+
+
+#### Deliverables
